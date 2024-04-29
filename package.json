@@ -1,6 +1,6 @@
 {
-  "name": "vue-3-playground",
-  "version": "0.0.0",
+  "name": "a-riff-a-day-ui",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
